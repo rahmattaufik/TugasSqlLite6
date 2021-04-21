@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TugasSqlLite</string>
+    <string name="edit_data_teman">Edit Data Teman</string>
+    <string name="hapus_data_teman">Hapus Data Teman</string>
+</resources>
